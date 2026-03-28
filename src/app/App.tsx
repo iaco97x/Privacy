@@ -65,10 +65,6 @@ export default function App() {
                 <p className="text-foreground/90 leading-relaxed mb-4">
                   L'app non utilizza tracker di terze parti o servizi di analisi che profilano l'utente.
                 </p>
-                <p className="text-muted-foreground italic text-sm">
-                  (Nota per il futuro: Se aggiungerai RevenueCat per i pagamenti, aggiorneremo questa sezione indicando che 
-                  vengono raccolti dati anonimi per gestire l'abbonamento).
-                </p>
               </div>
             </div>
           </section>
